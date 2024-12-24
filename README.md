@@ -29,7 +29,6 @@
 - 🛠️ Developed cross-platform mobile apps with advanced UI/UX using Flutter.
 - 📊 Integrated Firebase for real-time database management, authentication, and cloud storage.
 - 📱 Specialized in Flutter state management solutions like Provider, Riverpod, and BLoC.
-- 🚀 Built and deployed Flutter apps to both Play Store and App Store.
 - 🎨 Expertise in implementing responsive designs with Dart and Flutter widgets.
 
 # 📊 GitHub Stats:
