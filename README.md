@@ -1,4 +1,4 @@
-[![An image of @yourusername's Holopin badges, which is a link to view their full Holopin profile]([https://holopin.me/yourusername](https://www.holopin.io/@killergtg01#)](https://holopin.io/@yourusername)
+
 
 # 💫 About Me:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyourusername&label=Visitors&countColor=%23263759)
