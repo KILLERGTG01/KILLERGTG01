@@ -1,5 +1,5 @@
-[![An image of @KILLERGTG01’s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/killergtg01)]
-(https://holopin.io/@killergtg01)
+![An image of @KILLERGTG01’s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/killergtg01)]
+
 
 # 💫 About Me:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKILLERGTG01&label=Visitors&countColor=%23263759)
