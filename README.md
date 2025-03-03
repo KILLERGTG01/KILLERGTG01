@@ -1,5 +1,4 @@
 ![An image of @KILLERGTG01’s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/killergtg01)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KILLERGTG01&show_icons=true&count_private=true)
 # 💫 About Me:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKILLERGTG01&label=Visitors&countColor=%23263759)
 
@@ -30,6 +29,7 @@
 - 📊 Integrated Firebase for real-time database management, authentication, and cloud storage.
 - 📱 Specialized in Flutter state management solutions like Provider, Riverpod, and BLoC.
 - 🎨 Expertise in implementing responsive designs with Dart and Flutter widgets.
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KILLERGTG01&show_icons=true&count_private=true)
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KILLERGTG01&bg_color=0d1116&color=ffffff&line=3dd687&point=ffffff&area=true&hide_border=true"/>
